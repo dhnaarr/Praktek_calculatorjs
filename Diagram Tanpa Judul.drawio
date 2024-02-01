@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T22:18:41.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.0.1" etag="lkm08-NzBmaPIWwyNFWx" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T22:37:34.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cHe5kvKh5v8vIGWIstHA" version="23.0.1" type="github">
   <diagram name="Halaman-1" id="UZbE9_2U6ZNEJS7xhNDz">
-    <mxGraphModel>
+    <mxGraphModel dx="379" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Qqzl6QpbodKoBMxH4m_d-1" value="User" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-120" width="200" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="Qqzl6QpbodKoBMxH4m_d-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Qqzl6QpbodKoBMxH4m_d-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99.68" y="50" as="sourcePoint" />
+            <mxPoint x="100" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qqzl6QpbodKoBMxH4m_d-2" value="System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-120" width="200" height="720" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
